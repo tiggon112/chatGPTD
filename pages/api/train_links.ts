@@ -5,6 +5,8 @@ import { PineconeClient } from '@pinecone-database/pinecone';
 import { PineconeStore } from 'langchain/vectorstores';
 import { CheerioWebBaseLoader } from 'langchain/document_loaders/web/cheerio';
 
+const PINECONE_INDEX_NAME = process.env.PINECONE_INDEX_NAME;
+
 const filePath = 'uploads';
 
 if (!process.env.PINECONE_ENVIRONMENT || !process.env.PINECONE_API_KEY) {
@@ -48,7 +50,7 @@ export default async function handler(
       apiKey: process.env.PINECONE_API_KEY ?? '',
     });
 
-    const index = pinecone.Index(process.env.PINECONE_INDEX_NAME); //change to your own index name
+    const index = pinecone.Index(PINECONE_INDEX_NAME ?? ''); //change to your own index name
     index.delete1({
       deleteAll: true,
       namespace: process.env.PINECONE_NAME_SPACE,
