@@ -36,7 +36,7 @@ export default async function handler(
     switch (extension) {
       case 'docx' || 'doc':
         const DocLoader = new DocxLoader(
-          '/home/kinddev/Workstation/ArchGPT2-main/uploads/' + req.body,
+          'home/kinddev/Workstation/ArchGPT2-main/uploads/' + req.body,
         );
         rawDocs = await DocLoader.load();
         break;
