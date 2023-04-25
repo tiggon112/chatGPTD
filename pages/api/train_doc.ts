@@ -9,9 +9,8 @@ import { RecursiveCharacterTextSplitter } from 'langchain/text_splitter';
 import { OpenAIEmbeddings } from 'langchain/embeddings/openai';
 import { PineconeClient } from '@pinecone-database/pinecone';
 import { PineconeStore } from 'langchain/vectorstores';
-import { CustomPDFLoader } from '@/utils/customPDFLoader';
 
-const filePath = 'uploads';
+const PINECONE_INDEX_NAME = process.env.PINECONE_INDEX_NAME;
 
 if (!process.env.PINECONE_ENVIRONMENT || !process.env.PINECONE_API_KEY) {
   throw new Error('Pinecone environment or api key vars missing');
@@ -76,7 +75,7 @@ export default async function handler(
       apiKey: process.env.PINECONE_API_KEY ?? '',
     });
 
-    const index = pinecone.Index(process.env.PINECONE_INDEX_NAME); //change to your own index name
+    const index = pinecone.Index(PINECONE_INDEX_NAME ?? ''); //change to your own index name
     index.delete1({
       deleteAll: true,
       namespace: process.env.PINECONE_NAME_SPACE,
