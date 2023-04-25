@@ -2,9 +2,6 @@
   "name": "gpt4-langchain-pdf-chatbot",
   "version": "0.1.0",
   "private": true,
-  "engines": {
-    "node": "18.12.0"
-  },
   "license": "MIT",
   "author": "Mayooear<twitter:@mayowaoshin>",
   "type": "module",
