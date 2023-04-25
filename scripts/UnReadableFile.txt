@@ -1,0 +1,510 @@
+2023-04-14_19:38:07 - https://www.fedlex.admin.ch/eli/cc/2003/667/frCould not import tiktoken python package. This is needed in order to for OpenAIEmbeddings. Please install it with `pip install tiktoken`.
+2023-04-14_19:38:10 - https://www.fedlex.admin.ch/eli/cc/2003/668/frCould not import tiktoken python package. This is needed in order to for OpenAIEmbeddings. Please install it with `pip install tiktoken`.
+2023-04-14_19:38:14 - https://www.fedlex.admin.ch/eli/cc/1977/1931_1931_1931/frCould not import tiktoken python package. This is needed in order to for OpenAIEmbeddings. Please install it with `pip install tiktoken`.
+2023-04-14_19:38:38 - https://www.fedlex.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/54/757_781_799/20230123/fr/html/fedlex-data-admin-ch-eli-cc-54-757_781_799-20230123-fr-html-17.htmlCould not import tiktoken python package. This is needed in order to for OpenAIEmbeddings. Please install it with `pip install tiktoken`.
+2023-04-14_19:38:42 - https://www.fedlex.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573/20190101/fr/html/fedlex-data-admin-ch-eli-cc-1979-1573_1573_1573-20190101-fr-html-2.htmlCould not import tiktoken python package. This is needed in order to for OpenAIEmbeddings. Please install it with `pip install tiktoken`.
+2023-04-14_19:38:46 - https://www.fedlex.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/310/20220701/fr/html/fedlex-data-admin-ch-eli-cc-2000-310-20220701-fr-html-2.htmlCould not import tiktoken python package. This is needed in order to for OpenAIEmbeddings. Please install it with `pip install tiktoken`.
+2023-04-14_19:38:50 - https://www.fedlex.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/2506_2506_2506/20230101/fr/html/fedlex-data-admin-ch-eli-cc-1986-2506_2506_2506-20230101-fr-html-1.htmlCould not import tiktoken python package. This is needed in order to for OpenAIEmbeddings. Please install it with `pip install tiktoken`.
+2023-04-15_11:43:47 - https://www.dropbox.com/s/qhjmgxexr1h6r9e/SIA%20102_2020_R%C3%A8glement%20concernant%20les%20prestations%20et%20honoraires%20des%20architectes.pdflist index out of range
+2023-04-15_11:45:13 - https://www.dropbox.com/s/in83x7rfzfkj6gu/SIA%20416_2003_Surfaces%20et%20volumes%20des%20b%C3%A2timents.pdflist index out of range
+2023-04-15_11:45:19 - https://www.dropbox.com/s/ti5bg23rwzxleqe/SIA%20500_2009_Constructions%20sans%20obstacles.pdflist index out of range
+2023-04-15_11:46:13 - https://www.val-de-ruz.ch/fileadmin/SICO/Val-de-Ruz/Documents/RSVDR/Conseil_communal_et_general/7_Protection_env._et_amenag._territoire/1984.04.02_-_reglement_constrution_Chezard.pdf'utf-8' codec can't decode byte 0xe8 in position 0: unexpected end of data
+2023-04-15_11:47:39 - https://www.val-de-ruz.ch/fileadmin/SICO/Val-de-Ruz/Documents/RSVDR/Conseil_communal_et_general/7_Protection_env._et_amenag._territoire/1984.04.02_-_reglement_constrution_Chezard.pdf'utf-8' codec can't decode byte 0xe8 in position 0: unexpected end of data
+2023-04-15_11:48:15 - https://www.val-de-ruz.ch/fileadmin/SICO/Val-de-Ruz/Documents/RSVDR/Conseil_communal_et_general/7_Protection_env._et_amenag._territoire/1984.04.02_-_reglement_constrution_Chezard.pdf'utf-8' codec can't decode byte 0xe8 in position 0: unexpected end of data
+2023-04-15_11:51:52 - https://www.val-de-ruz.ch/fileadmin/SICO/Val-de-Ruz/Documents/RSVDR/Conseil_communal_et_general/7_Protection_env._et_amenag._territoire/1984.04.02_-_reglement_constrution_Chezard.pdf'utf-8' codec can't decode byte 0xe8 in position 0: unexpected end of data
+2023-04-15_11:52:36 - https://www.val-de-ruz.ch/fileadmin/SICO/Val-de-Ruz/Documents/RSVDR/Conseil_communal_et_general/7_Protection_env._et_amenag._territoire/1984.04.02_-_reglement_constrution_Chezard.pdf'utf-8' codec can't decode byte 0xe8 in position 0: unexpected end of data
+2023-04-15_11:54:00 - https://www.val-de-ruz.ch/fileadmin/SICO/Val-de-Ruz/Documents/RSVDR/Conseil_communal_et_general/7_Protection_env._et_amenag._territoire/1984.04.02_-_reglement_constrution_Chezard.pdf'utf-8' codec can't decode byte 0xe8 in position 0: unexpected end of data
+2023-04-15_11:54:14 - https://www.val-de-ruz.ch/fileadmin/SICO/Val-de-Ruz/Documents/RSVDR/Conseil_communal_et_general/7_Protection_env._et_amenag._territoire/1984.04.02_-_reglement_constrution_Chezard.pdf'utf-8' codec can't decode byte 0xe8 in position 0: unexpected end of data
+2023-04-15_11:59:06 - https://www.val-de-ruz.ch/fileadmin/SICO/Val-de-Ruz/Documents/RSVDR/Conseil_communal_et_general/7_Protection_env._et_amenag._territoire/1984.04.02_-_reglement_constrution_Chezard.pdf'utf-8' codec can't decode byte 0xe8 in position 0: unexpected end of data
+2023-04-15_12:14:56 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 102_2020_Règlement concernant les prestations et honoraires des architectes.pdflist index out of range
+2023-04-15_12:14:59 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 102_K_2018 Aide au calcul pour le règlement SIA 102.pdflist index out of range
+2023-04-15_12:16:00 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 103_2020_Règlement concernant les prestations et honoraires des ingénieurs civils.pdflist index out of range
+2023-04-15_12:16:04 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 108_2003_Règlement concernant les prestations et honoraires des ingénieurs mécaniciens et électricients, ainsi que des ingénieurs spécialisés dans les installations du bâtiment.pdflist index out of range
+2023-04-15_12:16:14 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 111_2003_Planification et conseil.pdflist index out of range
+2023-04-15_12:16:22 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 112_2001_Etude et conduite de projet.pdflist index out of range
+2023-04-15_12:16:30 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 118_2013_Conditions générales pour l'exécution des travaux de construction.pdflist index out of range
+2023-04-15_12:16:39 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 118.252_2012 CG relatives aux revêtements de sol en ciment, à base de magnésie, à base de résine synthétique et en bitume - Disposition contractuelles spécifiques à la norme SIA 252.pdflist index out of range
+2023-04-15_12:16:42 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 122_2012_Variations de prix-procédure selon la méthode paramétrique.pdflist index out of range
+2023-04-15_12:16:45 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 142_1998_Règlement des concours d'architecture et d'ingénierie.pdflist index out of range
+2023-04-15_12:16:48 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 143_2009_Règlement des mandats d'étude parallèles d'architecture et d'ingénierie.pdflist index out of range
+2023-04-15_12:16:52 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 150_1977_Dispositions relatives à la procédure devant un tribunal arbitral.pdflist index out of range
+2023-04-15_12:16:58 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 162.6_1999_Béton renforcé de fibres métalliques.pdflist index out of range
+2023-04-15_12:17:04 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 179_1998_Les fixations dans le béton et dans la maçonnerie.pdflist index out of range
+2023-04-15_12:17:08 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 180_1999_Protection thermique des fenêtres, portes et fermetures - calcul du coeficient de transmision thermique.pdflist index out of range
+2023-04-15_12:17:11 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 181_2020_Protection contre le bruit dans le bâtiment.pdflist index out of range
+2023-04-15_12:17:14 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 184_1972_Travaux de nettoyage de bâtiments.pdflist index out of range
+2023-04-15_12:17:20 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 190_2000_Canalisations.pdflist index out of range
+2023-04-15_12:17:29 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 193.111_1999_Exécution de travaux géotechniques spéciaux - Rideaux de palplanches.pdflist index out of range
+2023-04-15_12:17:41 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 195_1999_Fonçage de tubes.pdflist index out of range
+2023-04-15_12:17:50 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 196_1998_Ventilation des chantiers souterrains.pdflist index out of range
+2023-04-15_12:18:04 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 198_1993_Constructions souterraines - Exécution.pdflist index out of range
+2023-04-15_12:18:19 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 199_1998_Etude massif encaissant pour les travaux souterrains.pdflist index out of range
+2023-04-15_12:18:26 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 203_1997_Décharges.pdflist index out of range
+2023-04-15_12:18:39 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 205_2003_Pose de conduites et câbles souterrains - Coordination des implantations et bases techniques.pdflist index out of range
+2023-04-15_12:18:47 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 232_2000_Toitures inclinées.pdflist index out of range
+2023-04-15_12:18:54 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 233_2000_Bardages.pdflist index out of range
+2023-04-15_12:19:01 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 240_1988_Ouvrages en métal.pdflist index out of range
+2023-04-15_12:19:07 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 241_1988_Menuiserie.pdflist index out of range
+2023-04-15_12:19:13 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 242.1_1994_Plâtrerie, crépissage.pdflist index out of range
+2023-04-15_12:19:19 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 242.2_1994_Construction à sec.pdflist index out of range
+2023-04-15_12:19:24 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 243.1_1998_Isolations thermiques extérieures crépies.pdflist index out of range
+2023-04-15_12:19:29 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 243.2_1998_Isolations thermiques extérieures crépies.pdflist index out of range
+2023-04-15_12:19:34 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 244_1976_Pierre artificielle - Dallafes, revêtements, éléments manufacturés.pdflist index out of range
+2023-04-15_12:19:43 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 246_1976_Pierre naturelle-Dallages, revêtements, pierres de taille.pdflist index out of range
+2023-04-15_12:19:50 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 248_1976_Carrelages.pdflist index out of range
+2023-04-15_12:19:53 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 251.1_1998_Chapes flottantes.pdflist index out of range
+2023-04-15_12:19:58 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 251.2_1998_Chapes flottantes.pdflist index out of range
+2023-04-15_12:20:48 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 252_2012_Revêtements de sol en ciment, à base de magnésie, à base de résine synthétique et en bitume.pdflist index out of range
+2023-04-15_12:20:51 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 253_2002_Revêtements de sol en linoléum, plastique, caoutchouc,.pdflist index out of range
+2023-04-15_12:20:57 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 256_1988_Faux-plafonds.pdflist index out of range
+2023-04-15_12:21:02 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 257_1989_Peinture et revêtements muraux.pdflist index out of range
+2023-04-15_12:21:08 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 260_2003_Bases pour l'élaboration des projets de structures porteuses.pdflist index out of range
+2023-04-15_12:21:23 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 261_2003_Actions sur les structures porteuses.pdflist index out of range
+2023-04-15_12:21:41 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 261.1_2003_Actions sur les structures porteuses - Spécifications.pdflist index out of range
+2023-04-15_12:21:50 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 262_2003_Construction en béton.pdflist index out of range
+2023-04-15_12:22:07 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 262.1_2003_Construction en béton - Spécifications complémentaires.pdflist index out of range
+2023-04-15_12:22:17 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 416_2003_Surfaces et volumes des bâtiments.pdflist index out of range
+2023-04-15_12:22:28 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 500_2009_Constructions sans obstacles.pdflist index out of range
+2023-04-15_12:22:41 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 500_2009_Constructions sans obstacles_correctif.pdflist index out of range
+2023-04-15_12:22:46 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 500_2009_Constructions sans obstacles_interpretation.pdflist index out of range
+2023-04-15_12:22:50 - https://www.val-de-ruz.ch/fileadmin/SICO/Val-de-Ruz/Documents/RSVDR/Conseil_communal_et_general/7_Protection_env._et_amenag._territoire/1984.04.02_-_reglement_constrution_Chezard.pdf'utf-8' codec can't decode byte 0xe8 in position 0: unexpected end of data
+2023-04-15_12:26:10 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 102_2020_Règlement concernant les prestations et honoraires des architectes.pdflist index out of range
+2023-04-15_12:26:13 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 102_K_2018 Aide au calcul pour le règlement SIA 102.pdflist index out of range
+2023-04-15_12:27:15 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 103_2020_Règlement concernant les prestations et honoraires des ingénieurs civils.pdflist index out of range
+2023-04-15_12:27:18 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 108_2003_Règlement concernant les prestations et honoraires des ingénieurs mécaniciens et électricients, ainsi que des ingénieurs spécialisés dans les installations du bâtiment.pdflist index out of range
+2023-04-15_12:27:29 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 111_2003_Planification et conseil.pdflist index out of range
+2023-04-15_12:27:37 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 112_2001_Etude et conduite de projet.pdflist index out of range
+2023-04-15_12:27:44 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 118_2013_Conditions générales pour l'exécution des travaux de construction.pdflist index out of range
+2023-04-15_12:27:53 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 118.252_2012 CG relatives aux revêtements de sol en ciment, à base de magnésie, à base de résine synthétique et en bitume - Disposition contractuelles spécifiques à la norme SIA 252.pdflist index out of range
+2023-04-15_12:27:56 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 122_2012_Variations de prix-procédure selon la méthode paramétrique.pdflist index out of range
+2023-04-15_12:27:59 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 142_1998_Règlement des concours d'architecture et d'ingénierie.pdflist index out of range
+2023-04-15_12:28:02 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 143_2009_Règlement des mandats d'étude parallèles d'architecture et d'ingénierie.pdflist index out of range
+2023-04-15_12:28:06 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 150_1977_Dispositions relatives à la procédure devant un tribunal arbitral.pdflist index out of range
+2023-04-15_12:28:11 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 162.6_1999_Béton renforcé de fibres métalliques.pdflist index out of range
+2023-04-15_12:28:17 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 179_1998_Les fixations dans le béton et dans la maçonnerie.pdflist index out of range
+2023-04-15_12:28:20 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 180_1999_Protection thermique des fenêtres, portes et fermetures - calcul du coeficient de transmision thermique.pdflist index out of range
+2023-04-15_12:28:24 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 181_2020_Protection contre le bruit dans le bâtiment.pdflist index out of range
+2023-04-15_12:28:26 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 184_1972_Travaux de nettoyage de bâtiments.pdflist index out of range
+2023-04-15_12:28:31 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 190_2000_Canalisations.pdflist index out of range
+2023-04-15_12:28:41 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 193.111_1999_Exécution de travaux géotechniques spéciaux - Rideaux de palplanches.pdflist index out of range
+2023-04-15_12:28:54 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 195_1999_Fonçage de tubes.pdflist index out of range
+2023-04-15_12:29:02 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 196_1998_Ventilation des chantiers souterrains.pdflist index out of range
+2023-04-15_12:29:15 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 198_1993_Constructions souterraines - Exécution.pdflist index out of range
+2023-04-15_12:29:29 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 199_1998_Etude massif encaissant pour les travaux souterrains.pdflist index out of range
+2023-04-15_12:29:37 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 203_1997_Décharges.pdflist index out of range
+2023-04-15_12:29:49 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 205_2003_Pose de conduites et câbles souterrains - Coordination des implantations et bases techniques.pdflist index out of range
+2023-04-15_12:29:57 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 232_2000_Toitures inclinées.pdflist index out of range
+2023-04-15_12:30:05 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 233_2000_Bardages.pdflist index out of range
+2023-04-15_12:30:11 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 240_1988_Ouvrages en métal.pdflist index out of range
+2023-04-15_12:30:16 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 241_1988_Menuiserie.pdflist index out of range
+2023-04-15_12:30:22 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 242.1_1994_Plâtrerie, crépissage.pdflist index out of range
+2023-04-15_12:30:29 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 242.2_1994_Construction à sec.pdflist index out of range
+2023-04-15_12:30:34 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 243.1_1998_Isolations thermiques extérieures crépies.pdflist index out of range
+2023-04-15_12:30:39 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 243.2_1998_Isolations thermiques extérieures crépies.pdflist index out of range
+2023-04-15_12:30:44 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 244_1976_Pierre artificielle - Dallafes, revêtements, éléments manufacturés.pdflist index out of range
+2023-04-15_12:30:51 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 246_1976_Pierre naturelle-Dallages, revêtements, pierres de taille.pdflist index out of range
+2023-04-15_12:30:58 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 248_1976_Carrelages.pdflist index out of range
+2023-04-15_12:31:01 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 251.1_1998_Chapes flottantes.pdflist index out of range
+2023-04-15_12:31:07 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 251.2_1998_Chapes flottantes.pdflist index out of range
+2023-04-15_12:31:53 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 252_2012_Revêtements de sol en ciment, à base de magnésie, à base de résine synthétique et en bitume.pdflist index out of range
+2023-04-15_12:31:56 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 253_2002_Revêtements de sol en linoléum, plastique, caoutchouc,.pdflist index out of range
+2023-04-15_12:32:01 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 256_1988_Faux-plafonds.pdflist index out of range
+2023-04-15_12:32:07 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 257_1989_Peinture et revêtements muraux.pdflist index out of range
+2023-04-15_12:32:13 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 260_2003_Bases pour l'élaboration des projets de structures porteuses.pdflist index out of range
+2023-04-15_12:33:03 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 261_2003_Actions sur les structures porteuses.pdflist index out of range
+2023-04-15_12:33:22 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 261.1_2003_Actions sur les structures porteuses - Spécifications.pdflist index out of range
+2023-04-15_12:33:32 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 262_2003_Construction en béton.pdflist index out of range
+2023-04-15_12:33:50 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 262.1_2003_Construction en béton - Spécifications complémentaires.pdflist index out of range
+2023-04-15_12:34:00 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 416_2003_Surfaces et volumes des bâtiments.pdflist index out of range
+2023-04-15_12:34:11 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 500_2009_Constructions sans obstacles.pdflist index out of range
+2023-04-15_12:34:24 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 500_2009_Constructions sans obstacles_correctif.pdflist index out of range
+2023-04-15_12:34:29 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 500_2009_Constructions sans obstacles_interpretation.pdflist index out of range
+2023-04-15_12:34:34 - https://www.val-de-ruz.ch/fileadmin/SICO/Val-de-Ruz/Documents/RSVDR/Conseil_communal_et_general/7_Protection_env._et_amenag._territoire/1984.04.02_-_reglement_constrution_Chezard.pdf'utf-8' codec can't decode byte 0xe8 in position 0: unexpected end of data
+2023-04-15_12:35:32 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 102_2020_Règlement concernant les prestations et honoraires des architectes.pdflist index out of range
+2023-04-15_12:35:35 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 102_K_2018 Aide au calcul pour le règlement SIA 102.pdflist index out of range
+2023-04-15_12:36:41 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 103_2020_Règlement concernant les prestations et honoraires des ingénieurs civils.pdflist index out of range
+2023-04-15_12:36:45 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 108_2003_Règlement concernant les prestations et honoraires des ingénieurs mécaniciens et électricients, ainsi que des ingénieurs spécialisés dans les installations du bâtiment.pdflist index out of range
+2023-04-15_12:36:56 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 111_2003_Planification et conseil.pdflist index out of range
+2023-04-15_12:37:04 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 112_2001_Etude et conduite de projet.pdflist index out of range
+2023-04-15_12:37:11 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 118_2013_Conditions générales pour l'exécution des travaux de construction.pdflist index out of range
+2023-04-15_12:37:22 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 118.252_2012 CG relatives aux revêtements de sol en ciment, à base de magnésie, à base de résine synthétique et en bitume - Disposition contractuelles spécifiques à la norme SIA 252.pdflist index out of range
+2023-04-15_12:37:24 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 122_2012_Variations de prix-procédure selon la méthode paramétrique.pdflist index out of range
+2023-04-15_12:37:27 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 142_1998_Règlement des concours d'architecture et d'ingénierie.pdflist index out of range
+2023-04-15_12:37:30 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 143_2009_Règlement des mandats d'étude parallèles d'architecture et d'ingénierie.pdflist index out of range
+2023-04-15_12:37:34 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 150_1977_Dispositions relatives à la procédure devant un tribunal arbitral.pdflist index out of range
+2023-04-15_12:37:40 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 162.6_1999_Béton renforcé de fibres métalliques.pdflist index out of range
+2023-04-15_12:37:46 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 179_1998_Les fixations dans le béton et dans la maçonnerie.pdflist index out of range
+2023-04-15_12:37:50 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 180_1999_Protection thermique des fenêtres, portes et fermetures - calcul du coeficient de transmision thermique.pdflist index out of range
+2023-04-15_12:37:53 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 181_2020_Protection contre le bruit dans le bâtiment.pdflist index out of range
+2023-04-15_12:37:56 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 184_1972_Travaux de nettoyage de bâtiments.pdflist index out of range
+2023-04-15_12:38:01 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 190_2000_Canalisations.pdflist index out of range
+2023-04-15_12:38:11 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 193.111_1999_Exécution de travaux géotechniques spéciaux - Rideaux de palplanches.pdflist index out of range
+2023-04-15_12:38:23 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 195_1999_Fonçage de tubes.pdflist index out of range
+2023-04-15_12:38:31 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 196_1998_Ventilation des chantiers souterrains.pdflist index out of range
+2023-04-15_12:38:44 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 198_1993_Constructions souterraines - Exécution.pdflist index out of range
+2023-04-15_12:38:58 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 199_1998_Etude massif encaissant pour les travaux souterrains.pdflist index out of range
+2023-04-15_12:39:06 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 203_1997_Décharges.pdflist index out of range
+2023-04-15_12:39:18 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 205_2003_Pose de conduites et câbles souterrains - Coordination des implantations et bases techniques.pdflist index out of range
+2023-04-15_12:39:26 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 232_2000_Toitures inclinées.pdflist index out of range
+2023-04-15_12:39:34 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 233_2000_Bardages.pdflist index out of range
+2023-04-15_12:39:41 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 240_1988_Ouvrages en métal.pdflist index out of range
+2023-04-15_12:39:46 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 241_1988_Menuiserie.pdflist index out of range
+2023-04-15_12:39:52 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 242.1_1994_Plâtrerie, crépissage.pdflist index out of range
+2023-04-15_12:39:58 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 242.2_1994_Construction à sec.pdflist index out of range
+2023-04-15_12:40:03 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 243.1_1998_Isolations thermiques extérieures crépies.pdflist index out of range
+2023-04-15_12:40:08 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 243.2_1998_Isolations thermiques extérieures crépies.pdflist index out of range
+2023-04-15_12:40:13 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 244_1976_Pierre artificielle - Dallafes, revêtements, éléments manufacturés.pdflist index out of range
+2023-04-15_12:40:21 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 246_1976_Pierre naturelle-Dallages, revêtements, pierres de taille.pdflist index out of range
+2023-04-15_12:40:29 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 248_1976_Carrelages.pdflist index out of range
+2023-04-15_12:40:32 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 251.1_1998_Chapes flottantes.pdflist index out of range
+2023-04-15_12:40:38 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 251.2_1998_Chapes flottantes.pdflist index out of range
+2023-04-15_12:41:26 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 252_2012_Revêtements de sol en ciment, à base de magnésie, à base de résine synthétique et en bitume.pdflist index out of range
+2023-04-15_12:41:29 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 253_2002_Revêtements de sol en linoléum, plastique, caoutchouc,.pdflist index out of range
+2023-04-15_12:41:36 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 256_1988_Faux-plafonds.pdflist index out of range
+2023-04-15_12:41:41 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 257_1989_Peinture et revêtements muraux.pdflist index out of range
+2023-04-15_12:41:47 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 260_2003_Bases pour l'élaboration des projets de structures porteuses.pdflist index out of range
+2023-04-15_12:42:03 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 261_2003_Actions sur les structures porteuses.pdflist index out of range
+2023-04-15_12:42:21 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 261.1_2003_Actions sur les structures porteuses - Spécifications.pdflist index out of range
+2023-04-15_12:42:30 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 262_2003_Construction en béton.pdflist index out of range
+2023-04-15_12:42:49 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 262.1_2003_Construction en béton - Spécifications complémentaires.pdflist index out of range
+2023-04-15_12:42:59 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 263.1_2003_Construction en acier - Spécifications complémentaires.pdflist index out of range
+2023-04-15_12:43:02 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 263_2003_Construction en acier .pdflist index out of range
+2023-04-15_12:43:06 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 264_2003_Construction mixte acier-béton.pdflist index out of range
+2023-04-15_12:43:09 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 265_2003_Construction en bois.pdflist index out of range
+2023-04-15_12:43:12 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 265.1_2003_Construction en bois - Spécifications complémentaires.pdflist index out of range
+2023-04-15_12:43:16 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 266_2003_Construction en maçonnerie.pdflist index out of range
+2023-04-15_12:43:19 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 266.1_2003_Construction en maçonnerie - Spécifications complémentaires.pdflist index out of range
+2023-04-15_12:43:23 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 267_2003_Géotechnique.pdflist index out of range
+2023-04-15_12:43:27 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 416_2003_Surfaces et volumes des bâtiments.pdflist index out of range
+2023-04-15_12:43:38 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 500_2009_Constructions sans obstacles.pdflist index out of range
+2023-04-15_12:43:52 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 500_2009_Constructions sans obstacles_correctif.pdflist index out of range
+2023-04-15_12:43:57 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 500_2009_Constructions sans obstacles_interpretation.pdflist index out of range
+2023-04-15_12:44:49 - https://www.val-de-ruz.ch/fileadmin/SICO/Val-de-Ruz/Documents/RSVDR/Conseil_communal_et_general/7_Protection_env._et_amenag._territoire/1984.04.02_-_reglement_constrution_Chezard.pdf'utf-8' codec can't decode byte 0xe8 in position 0: unexpected end of data
+2023-04-15_13:05:30 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 102_2020_Règlement concernant les prestations et honoraires des architectes.pdflist index out of range
+2023-04-15_13:05:34 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 102_K_2018 Aide au calcul pour le règlement SIA 102.pdflist index out of range
+2023-04-15_13:06:36 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 103_2020_Règlement concernant les prestations et honoraires des ingénieurs civils.pdflist index out of range
+2023-04-15_13:06:40 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 108_2003_Règlement concernant les prestations et honoraires des ingénieurs mécaniciens et électricients, ainsi que des ingénieurs spécialisés dans les installations du bâtiment.pdflist index out of range
+2023-04-15_13:06:50 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 111_2003_Planification et conseil.pdflist index out of range
+2023-04-15_13:06:57 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 112_2001_Etude et conduite de projet.pdflist index out of range
+2023-04-15_13:07:05 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 118_2013_Conditions générales pour l'exécution des travaux de construction.pdflist index out of range
+2023-04-15_13:07:16 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 118.252_2012 CG relatives aux revêtements de sol en ciment, à base de magnésie, à base de résine synthétique et en bitume - Disposition contractuelles spécifiques à la norme SIA 252.pdflist index out of range
+2023-04-15_13:07:19 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 122_2012_Variations de prix-procédure selon la méthode paramétrique.pdflist index out of range
+2023-04-15_13:07:21 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 142_1998_Règlement des concours d'architecture et d'ingénierie.pdflist index out of range
+2023-04-15_13:07:24 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 143_2009_Règlement des mandats d'étude parallèles d'architecture et d'ingénierie.pdflist index out of range
+2023-04-15_13:07:28 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 150_1977_Dispositions relatives à la procédure devant un tribunal arbitral.pdflist index out of range
+2023-04-15_13:07:35 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 162.6_1999_Béton renforcé de fibres métalliques.pdflist index out of range
+2023-04-15_13:07:41 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 179_1998_Les fixations dans le béton et dans la maçonnerie.pdflist index out of range
+2023-04-15_13:07:44 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 180_1999_Protection thermique des fenêtres, portes et fermetures - calcul du coeficient de transmision thermique.pdflist index out of range
+2023-04-15_13:07:48 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 181_2020_Protection contre le bruit dans le bâtiment.pdflist index out of range
+2023-04-15_13:07:50 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 184_1972_Travaux de nettoyage de bâtiments.pdflist index out of range
+2023-04-15_13:07:55 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 190_2000_Canalisations.pdflist index out of range
+2023-04-15_13:08:05 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 193.111_1999_Exécution de travaux géotechniques spéciaux - Rideaux de palplanches.pdflist index out of range
+2023-04-15_13:08:19 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 195_1999_Fonçage de tubes.pdflist index out of range
+2023-04-15_13:08:27 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 196_1998_Ventilation des chantiers souterrains.pdflist index out of range
+2023-04-15_13:08:39 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 198_1993_Constructions souterraines - Exécution.pdflist index out of range
+2023-04-15_13:08:53 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 199_1998_Etude massif encaissant pour les travaux souterrains.pdflist index out of range
+2023-04-15_13:09:01 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 203_1997_Décharges.pdflist index out of range
+2023-04-15_13:09:12 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 205_2003_Pose de conduites et câbles souterrains - Coordination des implantations et bases techniques.pdflist index out of range
+2023-04-15_13:09:21 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 232_2000_Toitures inclinées.pdflist index out of range
+2023-04-15_13:09:29 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 233_2000_Bardages.pdflist index out of range
+2023-04-15_13:09:35 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 240_1988_Ouvrages en métal.pdflist index out of range
+2023-04-15_13:09:40 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 241_1988_Menuiserie.pdflist index out of range
+2023-04-15_13:09:46 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 242.1_1994_Plâtrerie, crépissage.pdflist index out of range
+2023-04-15_13:09:52 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 242.2_1994_Construction à sec.pdflist index out of range
+2023-04-15_13:09:57 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 243.1_1998_Isolations thermiques extérieures crépies.pdflist index out of range
+2023-04-15_13:10:02 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 243.2_1998_Isolations thermiques extérieures crépies.pdflist index out of range
+2023-04-15_13:10:07 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 244_1976_Pierre artificielle - Dallafes, revêtements, éléments manufacturés.pdflist index out of range
+2023-04-15_13:10:15 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 246_1976_Pierre naturelle-Dallages, revêtements, pierres de taille.pdflist index out of range
+2023-04-15_13:10:22 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 248_1976_Carrelages.pdflist index out of range
+2023-04-15_13:10:25 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 251.1_1998_Chapes flottantes.pdflist index out of range
+2023-04-15_13:10:31 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 251.2_1998_Chapes flottantes.pdflist index out of range
+2023-04-15_13:11:19 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 252_2012_Revêtements de sol en ciment, à base de magnésie, à base de résine synthétique et en bitume.pdflist index out of range
+2023-04-15_13:11:22 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 253_2002_Revêtements de sol en linoléum, plastique, caoutchouc,.pdflist index out of range
+2023-04-15_13:11:27 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 256_1988_Faux-plafonds.pdflist index out of range
+2023-04-15_13:11:32 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 257_1989_Peinture et revêtements muraux.pdflist index out of range
+2023-04-15_13:11:39 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 260_2003_Bases pour l'élaboration des projets de structures porteuses.pdflist index out of range
+2023-04-15_13:11:54 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 261_2003_Actions sur les structures porteuses.pdflist index out of range
+2023-04-15_13:12:13 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 261.1_2003_Actions sur les structures porteuses - Spécifications.pdflist index out of range
+2023-04-15_13:12:21 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 262_2003_Construction en béton.pdflist index out of range
+2023-04-15_13:12:40 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 262.1_2003_Construction en béton - Spécifications complémentaires.pdflist index out of range
+2023-04-15_13:12:48 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 263.1_2003_Construction en acier - Spécifications complémentaires.pdflist index out of range
+2023-04-15_13:12:52 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 263_2003_Construction en acier .pdflist index out of range
+2023-04-15_13:12:55 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 264_2003_Construction mixte acier-béton.pdflist index out of range
+2023-04-15_13:12:59 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 265_2003_Construction en bois.pdflist index out of range
+2023-04-15_13:13:02 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 265.1_2003_Construction en bois - Spécifications complémentaires.pdflist index out of range
+2023-04-15_13:13:06 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 266_2003_Construction en maçonnerie.pdflist index out of range
+2023-04-15_13:13:09 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 266.1_2003_Construction en maçonnerie - Spécifications complémentaires.pdflist index out of range
+2023-04-15_13:13:13 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 267_2003_Géotechnique.pdflist index out of range
+2023-04-15_13:13:17 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20416_2003_Surfaces%20et%20volumes%20des%20b%C3%A2timents.pdflist index out of range
+2023-04-15_13:13:27 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 500_2009_Constructions sans obstacles.pdflist index out of range
+2023-04-15_13:13:41 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 500_2009_Constructions sans obstacles_correctif.pdflist index out of range
+2023-04-15_13:13:46 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA 500_2009_Constructions sans obstacles_interpretation.pdflist index out of range
+2023-04-15_13:13:51 - https://www.val-de-ruz.ch/fileadmin/SICO/Val-de-Ruz/Documents/RSVDR/Conseil_communal_et_general/7_Protection_env._et_amenag._territoire/1984.04.02_-_reglement_constrution_Chezard.pdf'utf-8' codec can't decode byte 0xe8 in position 0: unexpected end of data
+2023-04-21_07:58:48 - https://www.bfu.ch/api/publications/bfu_2.003.02_Garde-corps.pdfCould not import tiktoken python package. This is needed in order to for OpenAIEmbeddings. Please install it with `pip install tiktoken`.
+2023-04-21_07:59:04 - https://www.bfu.ch/api/publications/bfu_2.005.02_Portes et portails.pdfCould not import tiktoken python package. This is needed in order to for OpenAIEmbeddings. Please install it with `pip install tiktoken`.
+2023-04-21_07:59:17 - https://www.bfu.ch/api/publications/bfu_2.006.02_Le verre dans l'architecture.pdfCould not import tiktoken python package. This is needed in order to for OpenAIEmbeddings. Please install it with `pip install tiktoken`.
+2023-04-21_07:59:32 - https://www.bfu.ch/api/publications/bfu_2.007.02_Escaliers.pdfCould not import tiktoken python package. This is needed in order to for OpenAIEmbeddings. Please install it with `pip install tiktoken`.
+2023-04-21_07:59:39 - https://www.bfu.ch/api/publications/bfu_2.009.02_Structures d'escalade.pdfCould not import tiktoken python package. This is needed in order to for OpenAIEmbeddings. Please install it with `pip install tiktoken`.
+2023-04-21_08:00:01 - https://www.bfu.ch/api/publications/bfu_2.019.02_Installations de baignade.pdfCould not import tiktoken python package. This is needed in order to for OpenAIEmbeddings. Please install it with `pip install tiktoken`.
+2023-04-21_08:00:25 - https://www.bfu.ch/api/publications/bfu_2.020.02_Salles de sport.pdfCould not import tiktoken python package. This is needed in order to for OpenAIEmbeddings. Please install it with `pip install tiktoken`.
+2023-04-21_08:00:47 - https://www.bfu.ch/api/publications/bfu_2.026.02_Pièces d'eau.pdfCould not import tiktoken python package. This is needed in order to for OpenAIEmbeddings. Please install it with `pip install tiktoken`.
+2023-04-21_08:00:59 - https://www.bfu.ch/api/publications/bfu_2.027.02_Rev%C3%AAtements%20de%20sol.pdfCould not import tiktoken python package. This is needed in order to for OpenAIEmbeddings. Please install it with `pip install tiktoken`.
+2023-04-21_08:01:10 - https://www.bfu.ch/api/publications/bfu_2.032.02_Revêtements de sol – liste d'exigences.pdfCould not import tiktoken python package. This is needed in order to for OpenAIEmbeddings. Please install it with `pip install tiktoken`.
+2023-04-21_08:01:27 - https://www.bfu.ch/api/publications/bfu_2.034.02_Prévention des chutes dans le bâtiment – aspects juridiques.pdfCould not import tiktoken python package. This is needed in order to for OpenAIEmbeddings. Please install it with `pip install tiktoken`.
+2023-04-21_08:02:12 - https://www.bfu.ch/api/publications/bfu_2.040.02_Installations pour VTT.pdfCould not import tiktoken python package. This is needed in order to for OpenAIEmbeddings. Please install it with `pip install tiktoken`.
+2023-04-21_08:02:16 - https://www.bfu.ch/api/publications/bfu_2.075.02_Habitat sûr – aspects juridiques.pdfCould not import tiktoken python package. This is needed in order to for OpenAIEmbeddings. Please install it with `pip install tiktoken`.
+2023-04-21_08:02:42 - https://www.bfu.ch/api/publications/bfu_2.081.02_Snowparks.pdfCould not import tiktoken python package. This is needed in order to for OpenAIEmbeddings. Please install it with `pip install tiktoken`.
+2023-04-21_08:03:03 - https://www.bfu.ch/api/publications/bfu_2.103.02_Mesures constructives pour la prévention des chutes dans les EMS.pdfCould not import tiktoken python package. This is needed in order to for OpenAIEmbeddings. Please install it with `pip install tiktoken`.
+2023-04-21_08:03:17 - https://www.bfu.ch/api/publications/bfu_2.120.02_Prévention des chutes dans les établissements médico-sociaux.pdfCould not import tiktoken python package. This is needed in order to for OpenAIEmbeddings. Please install it with `pip install tiktoken`.
+2023-04-21_08:03:48 - https://www.bfu.ch/api/publications/bfu_2.348.02_Aires de jeux.pdfCould not import tiktoken python package. This is needed in order to for OpenAIEmbeddings. Please install it with `pip install tiktoken`.
+2023-04-21_08:03:52 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/bfu_Canton BE f 2020 final.pdfCould not import tiktoken python package. This is needed in order to for OpenAIEmbeddings. Please install it with `pip install tiktoken`.
+2023-04-21_08:03:55 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/bfu_Canton FR f 2020 final.pdfCould not import tiktoken python package. This is needed in order to for OpenAIEmbeddings. Please install it with `pip install tiktoken`.
+2023-04-21_08:03:58 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/bfu_Canton GE final.pdfCould not import tiktoken python package. This is needed in order to for OpenAIEmbeddings. Please install it with `pip install tiktoken`.
+2023-04-21_08:04:02 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/bfu_Canton JU 2020 final.pdfCould not import tiktoken python package. This is needed in order to for OpenAIEmbeddings. Please install it with `pip install tiktoken`.
+2023-04-21_08:04:05 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/bfu_Canton NE 2020 final.pdfCould not import tiktoken python package. This is needed in order to for OpenAIEmbeddings. Please install it with `pip install tiktoken`.
+2023-04-21_08:04:08 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/bfu_Canton VD 2020 final.pdfCould not import tiktoken python package. This is needed in order to for OpenAIEmbeddings. Please install it with `pip install tiktoken`.
+2023-04-21_08:04:11 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/bfu_Canton VS f 2020 final.pdfCould not import tiktoken python package. This is needed in order to for OpenAIEmbeddings. Please install it with `pip install tiktoken`.
+2023-04-21_08:04:14 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/bfu_Cantone GR i 2020 final.pdfCould not import tiktoken python package. This is needed in order to for OpenAIEmbeddings. Please install it with `pip install tiktoken`.
+2023-04-21_08:04:17 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/bfu_Cantone TI 2020 final.pdfCould not import tiktoken python package. This is needed in order to for OpenAIEmbeddings. Please install it with `pip install tiktoken`.
+2023-04-21_08:04:20 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/bfu_Kanton AG 2020 final.pdfCould not import tiktoken python package. This is needed in order to for OpenAIEmbeddings. Please install it with `pip install tiktoken`.
+2023-04-21_08:04:23 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/bfu_Kanton AI  2020 final.pdfCould not import tiktoken python package. This is needed in order to for OpenAIEmbeddings. Please install it with `pip install tiktoken`.
+2023-04-21_08:04:27 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/bfu_Kanton AR 2020 final.pdfCould not import tiktoken python package. This is needed in order to for OpenAIEmbeddings. Please install it with `pip install tiktoken`.
+2023-04-21_08:04:30 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/bfu_Kanton BE d 2020 final.pdfCould not import tiktoken python package. This is needed in order to for OpenAIEmbeddings. Please install it with `pip install tiktoken`.
+2023-04-21_08:04:33 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/bfu_Kanton BL  2020 final.pdfCould not import tiktoken python package. This is needed in order to for OpenAIEmbeddings. Please install it with `pip install tiktoken`.
+2023-04-21_08:04:36 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/bfu_Kanton BS 2020 final.pdfCould not import tiktoken python package. This is needed in order to for OpenAIEmbeddings. Please install it with `pip install tiktoken`.
+2023-04-21_08:04:39 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/bfu_Kanton FR d 2020 final.pdfCould not import tiktoken python package. This is needed in order to for OpenAIEmbeddings. Please install it with `pip install tiktoken`.
+2023-04-21_08:04:42 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/bfu_Kanton GL 2020 final.pdfCould not import tiktoken python package. This is needed in order to for OpenAIEmbeddings. Please install it with `pip install tiktoken`.
+2023-04-21_08:04:45 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/bfu_Kanton GR d 2020 final.pdfCould not import tiktoken python package. This is needed in order to for OpenAIEmbeddings. Please install it with `pip install tiktoken`.
+2023-04-21_08:04:48 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/bfu_Kanton LU  2020 final.pdfCould not import tiktoken python package. This is needed in order to for OpenAIEmbeddings. Please install it with `pip install tiktoken`.
+2023-04-21_08:04:51 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/bfu_Kanton NW 2020 final.pdfCould not import tiktoken python package. This is needed in order to for OpenAIEmbeddings. Please install it with `pip install tiktoken`.
+2023-04-21_08:04:54 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/bfu_Kanton OW 2020 final.pdfCould not import tiktoken python package. This is needed in order to for OpenAIEmbeddings. Please install it with `pip install tiktoken`.
+2023-04-21_08:04:57 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/bfu_Kanton SG  2020 final.pdfCould not import tiktoken python package. This is needed in order to for OpenAIEmbeddings. Please install it with `pip install tiktoken`.
+2023-04-21_08:05:00 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/bfu_Kanton SH  2020 final.pdfCould not import tiktoken python package. This is needed in order to for OpenAIEmbeddings. Please install it with `pip install tiktoken`.
+2023-04-21_08:05:03 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/bfu_Kanton SO 2020 final.pdfCould not import tiktoken python package. This is needed in order to for OpenAIEmbeddings. Please install it with `pip install tiktoken`.
+2023-04-21_08:05:06 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/bfu_Kanton SZ 2020 final.pdfCould not import tiktoken python package. This is needed in order to for OpenAIEmbeddings. Please install it with `pip install tiktoken`.
+2023-04-21_08:05:10 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/bfu_Kanton TG 2020 final.pdfCould not import tiktoken python package. This is needed in order to for OpenAIEmbeddings. Please install it with `pip install tiktoken`.
+2023-04-21_08:05:13 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/bfu_Kanton UR 2020 final.pdfCould not import tiktoken python package. This is needed in order to for OpenAIEmbeddings. Please install it with `pip install tiktoken`.
+2023-04-21_08:05:16 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/bfu_Kanton VS d 2020 final.pdfCould not import tiktoken python package. This is needed in order to for OpenAIEmbeddings. Please install it with `pip install tiktoken`.
+2023-04-21_08:05:19 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/bfu_Kanton ZG 2020 final.pdfCould not import tiktoken python package. This is needed in order to for OpenAIEmbeddings. Please install it with `pip install tiktoken`.
+2023-04-21_08:05:22 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/bfu_Kanton ZH 2020 final.pdfCould not import tiktoken python package. This is needed in order to for OpenAIEmbeddings. Please install it with `pip install tiktoken`.
+2023-04-21_08:05:25 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/droit fédéral_151.3_Loi sur l’égalité pour les handicapés, (LHand).pdfCould not import tiktoken python package. This is needed in order to for OpenAIEmbeddings. Please install it with `pip install tiktoken`.
+2023-04-21_08:05:28 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/droit fédéral_151.3_Ordonnance sur l’égalité pour les handicapés (OHand).pdfCould not import tiktoken python package. This is needed in order to for OpenAIEmbeddings. Please install it with `pip install tiktoken`.
+2023-04-21_08:05:31 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/droit fédéral_211.222.338_Ordonnance sur le placement d’enfants (OPE).pdfCould not import tiktoken python package. This is needed in order to for OpenAIEmbeddings. Please install it with `pip install tiktoken`.
+2023-04-21_08:05:43 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/droit fédéral_220_Loi fédérale complétant le Code civil suisse (Livre cinquième - Droit des obligations).pdfCould not import tiktoken python package. This is needed in order to for OpenAIEmbeddings. Please install it with `pip install tiktoken`.
+2023-04-21_08:05:50 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/droit fédéral_311.0_Code pénal suisse.pdfCould not import tiktoken python package. This is needed in order to for OpenAIEmbeddings. Please install it with `pip install tiktoken`.
+2023-04-21_08:05:53 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/droit fédéral_700_Loi fédérale sur l’aménagement du territoire (LAT).pdfCould not import tiktoken python package. This is needed in order to for OpenAIEmbeddings. Please install it with `pip install tiktoken`.
+2023-04-21_08:05:57 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/droit fédéral_700.1_Ordonnance sur l’aménagement du territoire (OAT).pdfCould not import tiktoken python package. This is needed in order to for OpenAIEmbeddings. Please install it with `pip install tiktoken`.
+2023-04-21_08:06:00 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/droit fédéral_704_Loi fédérale sur les chemins pour piétons et les chemins de randonnée pédestre (LCPR).pdfCould not import tiktoken python package. This is needed in order to for OpenAIEmbeddings. Please install it with `pip install tiktoken`.
+2023-04-21_08:06:03 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/droit fédéral_704.1_Ordonnance sur les chemins pour piétons et les chemins de randonnée pédestre (OCPR).pdfCould not import tiktoken python package. This is needed in order to for OpenAIEmbeddings. Please install it with `pip install tiktoken`.
+2023-04-21_08:06:06 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/droit fédéral_705_Loi fédérale sur les voies cyclables.pdfCould not import tiktoken python package. This is needed in order to for OpenAIEmbeddings. Please install it with `pip install tiktoken`.
+2023-04-21_08:06:09 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/droit fédéral_734.0_Loi sur les installations électriques (LIE).pdfCould not import tiktoken python package. This is needed in order to for OpenAIEmbeddings. Please install it with `pip install tiktoken`.
+2023-04-21_08:06:13 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/droit fédéral_822.11_Loi fédérale sur le travail dans l’industrie, l’artisanat et le commerce.pdfCould not import tiktoken python package. This is needed in order to for OpenAIEmbeddings. Please install it with `pip install tiktoken`.
+2023-04-21_08:06:16 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/droit fédéral_822.111_Ordonnance 1 relative à la loi sur le travail (OLT1).pdfCould not import tiktoken python package. This is needed in order to for OpenAIEmbeddings. Please install it with `pip install tiktoken`.
+2023-04-21_08:06:20 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/droit fédéral_822.112_Ordonnance 2 relative à la loi sur le travail (OLT2).pdfCould not import tiktoken python package. This is needed in order to for OpenAIEmbeddings. Please install it with `pip install tiktoken`.
+2023-04-21_08:06:23 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/droit fédéral_822.113_Ordonnance 3 relative à la loi sur le travail (OLT3).pdfCould not import tiktoken python package. This is needed in order to for OpenAIEmbeddings. Please install it with `pip install tiktoken`.
+2023-04-21_08:06:26 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/droit fédéral_822.114_Ordonnance 4 relative à la loi sur le travail (OLT4).pdfCould not import tiktoken python package. This is needed in order to for OpenAIEmbeddings. Please install it with `pip install tiktoken`.
+2023-04-21_08:06:29 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/droit fédéral_822.115_Ordonnance 5 relative à la loi sur le travail (OLT5).pdfCould not import tiktoken python package. This is needed in order to for OpenAIEmbeddings. Please install it with `pip install tiktoken`.
+2023-04-21_08:06:44 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/droit fédéral_SECO_Commentaire de la loi sur le travail et des ordonnances 1 et 2.pdfCould not import tiktoken python package. This is needed in order to for OpenAIEmbeddings. Please install it with `pip install tiktoken`.
+2023-04-21_08:07:01 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/droit fédéral_SECO_Commentaire des ordonnances 3 et 4 relatives à la loi sur le travail.pdfCould not import tiktoken python package. This is needed in order to for OpenAIEmbeddings. Please install it with `pip install tiktoken`.
+2023-04-21_08:53:54 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/VSS%2040_291[3]_2021_stationnement.pdflist index out of range
+2023-04-21_09:10:39 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20102_2020_Règlement%20concernant%20les%20prestations%20et%20honoraires%20des%20architectes.pdflist index out of range
+2023-04-21_09:10:42 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20102_K_2018%20Aide%20au%20calcul%20pour%20le%20règlement%20SIA%20102.pdflist index out of range
+2023-04-21_09:11:57 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20103_2020_Règlement%20concernant%20les%20prestations%20et%20honoraires%20des%20ingénieurs%20civils.pdflist index out of range
+2023-04-21_09:12:02 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20108_2003_Règlement%20concernant%20les%20prestations%20et%20honoraires%20des%20ingénieurs%20mécaniciens%20et%20électricients,%20ainsi%20que%20des%20ingénieurs%20spécialisés%20dans%20les%20installations%20du%20bâtiment.pdflist index out of range
+2023-04-21_09:12:09 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20111_2003_Planification%20et%20conseil.pdflist index out of range
+2023-04-21_09:12:16 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20112_2001_Etude%20et%20conduite%20de%20projet.pdflist index out of range
+2023-04-21_09:13:57 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20118_2013_Conditions%20générales%20pour%20l'exécution%20des%20travaux%20de%20construction.pdflist index out of range
+2023-04-21_09:14:08 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20118.252_2012%20CG%20relatives%20aux%20revêtements%20de%20sol%20en%20ciment,%20à%20base%20de%20magnésie,%20à%20base%20de%20résine%20synthétique%20et%20en%20bitume%20-%20Disposition%20contractuelles%20spécifiques%20à%20la%20norme%20SIA%20252.pdflist index out of range
+2023-04-21_09:14:11 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20122_2012_Variations%20de%20prix-procédure%20selon%20la%20méthode%20paramétrique.pdflist index out of range
+2023-04-21_09:14:15 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20142_1998_Règlement%20des%20concours%20d'architecture%20et%20d'ingénierie.pdflist index out of range
+2023-04-21_09:14:20 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20143_2009_Règlement%20des%20mandats%20d'étude%20parallèles%20d'architecture%20et%20d'ingénierie.pdflist index out of range
+2023-04-21_09:14:22 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20150_1977_Dispositions%20relatives%20à%20la%20procédure%20devant%20un%20tribunal%20arbitral.pdflist index out of range
+2023-04-21_09:14:27 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20162.6_1999_Béton%20renforcé%20de%20fibres%20métalliques.pdflist index out of range
+2023-04-21_09:14:33 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20179_1998_Les%20fixations%20dans%20le%20béton%20et%20dans%20la%20maçonnerie.pdflist index out of range
+2023-04-21_09:14:41 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20180_1999_Protection%20thermique%20des%20fenêtres,%20portes%20et%20fermetures%20-%20calcul%20du%20coeficient%20de%20transmisiion%20thermique.pdflist index out of range
+2023-04-21_09:14:50 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20181_2020_Protection%20contre%20le%20bruit%20dans%20le%20bâtiment.pdflist index out of range
+2023-04-21_09:14:53 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20184_1972_Travaux%20de%20nettoyage%20de%20bâtiments.pdflist index out of range
+2023-04-21_09:14:57 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20190_2000_Canalisations.pdflist index out of range
+2023-04-21_09:15:04 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20193.111_1999_Exécution%20de%20travaux%20géotechniques%20spéciaux%20-%20Rideaux%20de%20palplanches.pdflist index out of range
+2023-04-21_09:15:11 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20195_1999_Fonçage%20de%20tubes.pdflist index out of range
+2023-04-21_09:15:17 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20196_1998_Ventilation%20des%20chantiers%20souterrains.pdflist index out of range
+2023-04-21_09:15:24 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20198_1993_Constructions%20souterraines%20-%20Exécution.pdflist index out of range
+2023-04-21_09:15:32 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20199_1998_Etude%20massif%20encaissant%20pour%20les%20travaux%20souterrains.pdflist index out of range
+2023-04-21_09:15:38 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20203_1997_Décharges.pdflist index out of range
+2023-04-21_09:15:45 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20205_2003_Pose%20de%20conduites%20et%20câbles%20souterrains%20-%20Coordination%20des%20implantations%20et%20bases%20techniques.pdflist index out of range
+2023-04-21_09:15:51 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20232_2000_Toitures%20inclinées.pdflist index out of range
+2023-04-21_09:15:56 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20233_2000_Bardages.pdflist index out of range
+2023-04-21_09:16:01 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20240_1988_Ouvrages%20en%20métal.pdflist index out of range
+2023-04-21_09:16:05 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20241_1988_Menuiserie.pdflist index out of range
+2023-04-21_09:16:09 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20242.1_1994_Plâtrerie,%20crépissage.pdflist index out of range
+2023-04-21_09:16:13 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20242.2_1994_Construction%20à%20sec.pdflist index out of range
+2023-04-21_09:16:18 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20243.1_1998_Isolations%20thermiques%20extérieures%20crépies.pdflist index out of range
+2023-04-21_09:16:21 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20243.2_1998_Isolations%20thermiques%20extérieures%20crépies.pdflist index out of range
+2023-04-21_09:16:25 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20244_1976_Pierre%20artificielle%20-%20Dallafes,%20revêtements,%20éléments%20manufacturés.pdflist index out of range
+2023-04-21_09:16:31 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20246_1976_Pierre%20naturelle-Dallages,%20revêtements,%20pierres%20de%20taille.pdflist index out of range
+2023-04-21_09:16:38 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20248_1976_Carrelages.pdflist index out of range
+2023-04-21_09:16:41 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20251.1_1998_Chapes%20flottantes.pdflist index out of range
+2023-04-21_09:16:45 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20251.2_1998_Chappes%20flottantes.pdflist index out of range
+2023-04-21_09:17:43 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20252_2012_Revêtements%20de%20sol%20en%20ciment,%20à%20base%20de%20magnésie,%20à%20base%20de%20résine%20synthétique%20et%20en%20bitume.pdflist index out of range
+2023-04-21_09:17:48 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20253_2002_Revêtements%20de%20sol%20en%20linoléum,%20plastique,%20caoutchouc,.pdflist index out of range
+2023-04-21_09:17:52 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20256_1988_Faux-plafonds.pdflist index out of range
+2023-04-21_09:17:57 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20257_1989_Peinture%20et%20revêtements%20muraux.pdflist index out of range
+2023-04-21_09:18:02 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20260_2003_Bases%20pour%20l'élaboration%20des%20projets%20de%20structures%20porteuses.pdflist index out of range
+2023-04-21_09:18:24 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20261_2003_Actions%20sur%20les%20structures%20porteuses.pdflist index out of range
+2023-04-21_09:18:35 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20261.1_2003_Actions%20sur%20les%20structures%20porteuses%20-%20Spécifications.pdflist index out of range
+2023-04-21_09:18:43 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20262_2003_Construction%20en%20béton.pdflist index out of range
+2023-04-21_09:18:53 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20262.1_2003_Construction%20en%20béton%20-%20Spécifications%20complémentaires.pdflist index out of range
+2023-04-21_09:19:00 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20263.1_2003_Construction%20en%20acier%20-%20Spécifications%20complémentaires.pdflist index out of range
+2023-04-21_09:19:08 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20263_2003_Construction%20en%20acier.pdflist index out of range
+2023-04-21_09:19:20 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20264_2003_Construction%20mixte%20acier-béton.pdflist index out of range
+2023-04-21_09:19:29 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20265_2003_Construction%20en%20bois.pdflist index out of range
+2023-04-21_09:19:39 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20265.1_2003_Construction%20en%20bois%20-%20Spécifications%20complémentaires.pdflist index out of range
+2023-04-21_09:19:45 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20266_2003_Construction%20en%20maçonnerie.pdflist index out of range
+2023-04-21_09:19:51 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20266.1_2003_Construction%20en%20maçonnerie%20-%20Spécifications%20complémentaires.pdflist index out of range
+2023-04-21_09:19:56 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20267_2003_Géotechnique.pdflist index out of range
+2023-04-21_09:20:09 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20267.1_2003_Géotechnique%20-%20Spécifications%20complémentaires.pdflist index out of range
+2023-04-21_09:20:15 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20271.1_1991_Isolants%20thermiques.pdflist index out of range
+2023-04-21_09:20:19 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20271.1_1994_Toitures%20jardins.pdflist index out of range
+2023-04-21_09:20:23 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20271_1986_Etanchéité%20des%20bâtiments.pdflist index out of range
+2023-04-21_09:20:29 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20272_1980_Etanchéité%20et%20drainage%20d'ouvrages%20enterrés%20et%20souterrains.pdflist index out of range
+2023-04-21_09:20:34 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20273_1989_Etanchéité%20des%20surfaces%20carrossables%20des%20bâtiments.pdflist index out of range
+2023-04-21_09:20:38 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20274_1987_Etanchéité%20des%20joints%20dans%20la%20construction%20-%20Conception%20et%20exécution.pdflist index out of range
+2023-04-21_09:20:44 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20279_2000_Matériaux%20de%20construction%20isolants.pdflist index out of range
+2023-04-21_09:20:49 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20281.2_1999_Lés%20d'étanchéité%20et%20étanchéité%20appliquée%20liquide%20-%20Essais%20de%20pelage.pdflist index out of range
+2023-04-21_09:20:53 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20281.3_2002_Lés%20d’étanchéité%20et%20étanchéités%20appliquées%20sous%20forme.pdflist index out of range
+2023-04-21_09:20:58 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20281_1992_Lés%20d’étanchéité%20en%20matière%20synthétique,%20bitumineux%20ou%20argileux.pdflist index out of range
+2023-04-21_09:21:03 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20318_1988_Aménagements%20extérieurs.pdflist index out of range
+2023-04-21_09:21:07 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20329_1989_Façades%20rideaux.pdflist index out of range
+2023-04-21_09:21:12 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20331_1988_Fenêtres%20et%20portes-fenêtres.pdflist index out of range
+2023-04-21_09:21:17 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20342_1988_Protection%20des%20baies%20contre%20le%20soleil%20et%20les%20intempéries.pdflist index out of range
+2023-04-21_09:21:21 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20343_1990_Portes.pdflist index out of range
+2023-04-21_09:21:25 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20358_2010_Garde-corps.pdflist index out of range
+2023-04-21_09:21:29 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20380.1_2001_Besoins%20de%20chaleur%20pour%20le%20chauffage.pdflist index out of range
+2023-04-21_09:21:38 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20380.3_1991_Isolation%20thermique%20des%20conduites,%20canalisations%20et%20réservoirs%20du%20bâtiment.pdflist index out of range
+2023-04-21_09:21:45 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20385.1_2000_%20Installations%20d'eau%20chaude%20sanitaire%20dans%20les%20bâtiments%20-%20Bases%20gén´rales%20et%20exigences.pdflist index out of range
+2023-04-21_09:21:53 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20382.1_1992_Ventilation%20mécanique%20dans%20les%20bâtiments%20-%20Bases%20et%20performances%20requises.pdflist index out of range
+2023-04-21_09:21:59 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20384.1_1991_Installations%20de%20chauffage%20dans%20les%20bâtiments%20-%20Bases%20générales%20et%20performances%20requises.pdflist index out of range
+2023-04-21_09:22:06 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20384.2_1982_Systèmes%20de%20chauffage%20dans%20les%20bâtiments%20-%20Puissance%20requise.pdflist index out of range
+2023-04-21_09:22:14 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20400_2000_%C3%89laboration%20des%20dossiers%20de%20plans%20dans%20le%20domaine%20du%20b%C3%A2timent.pdflist index out of range
+2023-04-21_09:22:22 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20405_1999_Geodonnées%20du%20cadastre%20des%20conduites%20de%20distribution%20et%20d'assainissement.pdflist index out of range
+2023-04-21_09:22:30 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20410.1.2_1981_Désignation%20des%20installations%20du%20bâtiment%20-%20Plans,%20installations%20en%20plance,%20évidements.pdflist index out of range
+2023-04-21_09:22:46 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20414.1_2016_Tolérances%20dimensionnelles%20dans%20la%20construction%20-%20Termes,%20principes%20et%20règles%20d_application.pdflist index out of range
+2023-04-21_09:23:01 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20414.2_2016_Tolérances%20dimensionnelles%20dans%20le%20bâtiment.pdflist index out of range
+2023-04-21_09:23:06 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20416_2003_Surfaces%20et%20volumes%20des%20bâtiments.pdflist index out of range
+2023-04-21_09:23:12 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20430_1993_Gestion%20des%20déchets%20de%20chantier.pdflist index out of range
+2023-04-21_09:23:18 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20431_1997_Traitement%20et%20évacuation%20des%20eaux%20de%20chantier.pdflist index out of range
+2023-04-21_09:23:24 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20450_1994_Informatique%20-%20Informations%20relatives%20aux%20coûts.pdflist index out of range
+2023-04-21_09:23:29 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20451_1992_Informatique%20-%20Formats%20des%20données%20pour%20descriptifs.pdflist index out of range
+2023-04-21_09:23:34 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20469_1997_Conservation%20des%20ouvrages.pdflist index out of range
+2023-04-21_09:23:40 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20500_2009_Constructions%20sans%20obstacles.pdflist index out of range
+2023-04-21_09:23:49 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20500_2009_Constructions%20sans%20obstacles_correctif.pdflist index out of range
+2023-04-21_09:23:53 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20500_2009_Constructions%20sans%20obstacles_interpretation.pdflist index out of range
+2023-04-21_09:23:57 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%202007_2001_La%20qualité%20dans%20la%20construction%20-%20L'élaboration%20et%20l'usage%20des%20systèmes%20de%20gestion.pdflist index out of range
+2023-04-21_09:24:08 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%202014_1996_CAO%20%20DAO-Échange%20de%20données%20-%20Structure%20et%20codification.pdflist index out of range
+2023-04-21_09:24:15 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%202015_1999_Catalogue%20des%20modèles%20de%20représentation%20des%20objets%20du%20cadastre%20des%20conduites%20de%20distribution%20et%20d'assainissement.pdflist index out of range
+2023-04-21_09:24:21 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%202016_1999_Modèles%20de%20données%20des%20objets%20du%20cadastre%20des%20conduites%20de%20distribution%20et%20d'assainissement.pdflist index out of range
+2023-04-21_09:24:27 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%202017_2000_Valeur%20de%20conservation%20des%20ouvrages.pdflist index out of range
+2023-04-21_09:24:32 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%202020_2002_Garanties%20(sûretés)%20à%20fournir%20par%20l'entrepreneur%20dans%20le%20contrat%20d'entreprise%20-%20Cahier%20technique%20de%20la%20norme%20SIA%20118%20.pdflist index out of range
+2023-04-21_09:58:57 - https://www.seco.admin.ch/dam/seco/fr/dokumente/Publikationen_Dienstleistungen/Publikationen_Formulare/Arbeit/Arbeitsbedingungen/wegleitungen_arbeitsgesetzt/Wegleitung%20zur%20Verordnung%205%20zum%20Arbeitsgesetz%20-%20Jugendarbeitsschutz%20(Stand%20Juli%202015).pdf.download.pdf/Commentaire_ordonnance_5_loi_travail.pdf('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2023-04-21_09:59:42 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/VSS%2040_291[3]_2021_stationnement.pdflist index out of range
+2023-04-21_16:52:17 - https://www.seco.admin.ch/dam/seco/fr/dokumente/Publikationen_Dienstleistungen/Publikationen_Formulare/Arbeit/Arbeitsbedingungen/wegleitungen_arbeitsgesetzt/Wegleitung%20zur%20Verordnung%205%20zum%20Arbeitsgesetz%20-%20Jugendarbeitsschutz%20(Stand%20Juli%202015).pdf.download.pdf/Commentaire_ordonnance_5_loi_travail.pdf('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2023-04-21_16:53:06 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/VSS%2040_291[3]_2021_stationnement.pdflist index out of range
+2023-04-21_17:12:21 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20102_2020_Règlement%20concernant%20les%20prestations%20et%20honoraires%20des%20architectes.pdflist index out of range
+2023-04-21_17:12:25 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20102_K_2018%20Aide%20au%20calcul%20pour%20le%20règlement%20SIA%20102.pdflist index out of range
+2023-04-21_17:13:41 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20103_2020_Règlement%20concernant%20les%20prestations%20et%20honoraires%20des%20ingénieurs%20civils.pdflist index out of range
+2023-04-21_17:13:45 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20108_2003_Règlement%20concernant%20les%20prestations%20et%20honoraires%20des%20ingénieurs%20mécaniciens%20et%20électricients,%20ainsi%20que%20des%20ingénieurs%20spécialisés%20dans%20les%20installations%20du%20bâtiment.pdflist index out of range
+2023-04-21_17:13:54 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20111_2003_Planification%20et%20conseil.pdflist index out of range
+2023-04-21_17:14:02 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20112_2001_Etude%20et%20conduite%20de%20projet.pdflist index out of range
+2023-04-21_17:15:44 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20118_2013_Conditions%20générales%20pour%20l'exécution%20des%20travaux%20de%20construction.pdflist index out of range
+2023-04-21_17:15:54 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20118.252_2012%20CG%20relatives%20aux%20revêtements%20de%20sol%20en%20ciment,%20à%20base%20de%20magnésie,%20à%20base%20de%20résine%20synthétique%20et%20en%20bitume%20-%20Disposition%20contractuelles%20spécifiques%20à%20la%20norme%20SIA%20252.pdflist index out of range
+2023-04-21_17:15:57 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20122_2012_Variations%20de%20prix-procédure%20selon%20la%20méthode%20paramétrique.pdflist index out of range
+2023-04-21_17:16:00 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20142_1998_Règlement%20des%20concours%20d'architecture%20et%20d'ingénierie.pdflist index out of range
+2023-04-21_17:16:06 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20143_2009_Règlement%20des%20mandats%20d'étude%20parallèles%20d'architecture%20et%20d'ingénierie.pdflist index out of range
+2023-04-21_17:16:09 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20150_1977_Dispositions%20relatives%20à%20la%20procédure%20devant%20un%20tribunal%20arbitral.pdflist index out of range
+2023-04-21_17:16:15 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20162.6_1999_Béton%20renforcé%20de%20fibres%20métalliques.pdflist index out of range
+2023-04-21_17:16:23 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20179_1998_Les%20fixations%20dans%20le%20béton%20et%20dans%20la%20maçonnerie.pdflist index out of range
+2023-04-21_17:16:38 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20180_1999_Protection%20thermique%20des%20fenêtres,%20portes%20et%20fermetures%20-%20calcul%20du%20coeficient%20de%20transmisiion%20thermique.pdflist index out of range
+2023-04-21_17:16:53 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20181_2020_Protection%20contre%20le%20bruit%20dans%20le%20bâtiment.pdflist index out of range
+2023-04-21_17:16:56 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20184_1972_Travaux%20de%20nettoyage%20de%20bâtiments.pdflist index out of range
+2023-04-21_17:17:04 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20190_2000_Canalisations.pdflist index out of range
+2023-04-21_17:17:15 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20193.111_1999_Exécution%20de%20travaux%20géotechniques%20spéciaux%20-%20Rideaux%20de%20palplanches.pdflist index out of range
+2023-04-21_17:17:28 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20195_1999_Fonçage%20de%20tubes.pdflist index out of range
+2023-04-21_17:17:37 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20196_1998_Ventilation%20des%20chantiers%20souterrains.pdflist index out of range
+2023-04-21_17:17:49 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20198_1993_Constructions%20souterraines%20-%20Exécution.pdflist index out of range
+2023-04-21_17:18:02 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20199_1998_Etude%20massif%20encaissant%20pour%20les%20travaux%20souterrains.pdflist index out of range
+2023-04-21_17:18:14 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20203_1997_Décharges.pdflist index out of range
+2023-04-21_17:18:25 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20205_2003_Pose%20de%20conduites%20et%20câbles%20souterrains%20-%20Coordination%20des%20implantations%20et%20bases%20techniques.pdflist index out of range
+2023-04-21_17:18:34 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20232_2000_Toitures%20inclinées.pdflist index out of range
+2023-04-21_17:18:43 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20233_2000_Bardages.pdflist index out of range
+2023-04-21_17:18:49 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20240_1988_Ouvrages%20en%20métal.pdflist index out of range
+2023-04-21_17:18:55 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20241_1988_Menuiserie.pdflist index out of range
+2023-04-21_17:19:00 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20242.1_1994_Plâtrerie,%20crépissage.pdflist index out of range
+2023-04-21_17:19:07 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20242.2_1994_Construction%20à%20sec.pdflist index out of range
+2023-04-21_17:19:12 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20243.1_1998_Isolations%20thermiques%20extérieures%20crépies.pdflist index out of range
+2023-04-21_17:19:18 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20243.2_1998_Isolations%20thermiques%20extérieures%20crépies.pdflist index out of range
+2023-04-21_17:19:23 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20244_1976_Pierre%20artificielle%20-%20Dallafes,%20revêtements,%20éléments%20manufacturés.pdflist index out of range
+2023-04-21_17:19:30 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20246_1976_Pierre%20naturelle-Dallages,%20revêtements,%20pierres%20de%20taille.pdflist index out of range
+2023-04-21_17:19:39 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20248_1976_Carrelages.pdflist index out of range
+2023-04-21_17:19:42 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20251.1_1998_Chapes%20flottantes.pdflist index out of range
+2023-04-21_17:19:49 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20251.2_1998_Chappes%20flottantes.pdflist index out of range
+2023-04-21_17:20:47 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20252_2012_Revêtements%20de%20sol%20en%20ciment,%20à%20base%20de%20magnésie,%20à%20base%20de%20résine%20synthétique%20et%20en%20bitume.pdflist index out of range
+2023-04-21_17:20:50 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20253_2002_Revêtements%20de%20sol%20en%20linoléum,%20plastique,%20caoutchouc,.pdflist index out of range
+2023-04-21_17:20:55 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20256_1988_Faux-plafonds.pdflist index out of range
+2023-04-21_17:21:01 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20257_1989_Peinture%20et%20revêtements%20muraux.pdflist index out of range
+2023-04-21_17:21:08 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20260_2003_Bases%20pour%20l'élaboration%20des%20projets%20de%20structures%20porteuses.pdflist index out of range
+2023-04-21_17:21:34 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20261_2003_Actions%20sur%20les%20structures%20porteuses.pdflist index out of range
+2023-04-21_17:21:56 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20261.1_2003_Actions%20sur%20les%20structures%20porteuses%20-%20Spécifications.pdflist index out of range
+2023-04-21_17:22:05 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20262_2003_Construction%20en%20béton.pdflist index out of range
+2023-04-21_17:22:24 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20262.1_2003_Construction%20en%20béton%20-%20Spécifications%20complémentaires.pdflist index out of range
+2023-04-21_17:22:40 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20263.1_2003_Construction%20en%20acier%20-%20Spécifications%20complémentaires.pdflist index out of range
+2023-04-21_17:22:53 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20263_2003_Construction%20en%20acier.pdflist index out of range
+2023-04-21_17:23:12 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20264_2003_Construction%20mixte%20acier-béton.pdflist index out of range
+2023-04-21_17:23:25 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20265_2003_Construction%20en%20bois.pdflist index out of range
+2023-04-21_17:23:43 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20265.1_2003_Construction%20en%20bois%20-%20Spécifications%20complémentaires.pdflist index out of range
+2023-04-21_17:23:50 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20266_2003_Construction%20en%20maçonnerie.pdflist index out of range
+2023-04-21_17:24:00 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20266.1_2003_Construction%20en%20maçonnerie%20-%20Spécifications%20complémentaires.pdflist index out of range
+2023-04-21_17:24:06 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20267_2003_Géotechnique.pdflist index out of range
+2023-04-21_17:24:28 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20267.1_2003_Géotechnique%20-%20Spécifications%20complémentaires.pdflist index out of range
+2023-04-21_17:24:37 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20271.1_1991_Isolants%20thermiques.pdflist index out of range
+2023-04-21_17:24:41 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20271.1_1994_Toitures%20jardins.pdflist index out of range
+2023-04-21_17:24:47 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20271_1986_Etanchéité%20des%20bâtiments.pdflist index out of range
+2023-04-21_17:24:55 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20272_1980_Etanchéité%20et%20drainage%20d'ouvrages%20enterrés%20et%20souterrains.pdflist index out of range
+2023-04-21_17:25:02 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20273_1989_Etanchéité%20des%20surfaces%20carrossables%20des%20bâtiments.pdflist index out of range
+2023-04-21_17:25:08 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20274_1987_Etanchéité%20des%20joints%20dans%20la%20construction%20-%20Conception%20et%20exécution.pdflist index out of range
+2023-04-21_17:25:16 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20279_2000_Matériaux%20de%20construction%20isolants.pdflist index out of range
+2023-04-21_17:25:24 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20281.2_1999_Lés%20d'étanchéité%20et%20étanchéité%20appliquée%20liquide%20-%20Essais%20de%20pelage.pdflist index out of range
+2023-04-21_17:25:29 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20281.3_2002_Lés%20d’étanchéité%20et%20étanchéités%20appliquées%20sous%20forme.pdflist index out of range
+2023-04-21_17:25:34 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20281_1992_Lés%20d’étanchéité%20en%20matière%20synthétique,%20bitumineux%20ou%20argileux.pdflist index out of range
+2023-04-21_17:25:42 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20318_1988_Aménagements%20extérieurs.pdflist index out of range
+2023-04-21_17:25:48 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20329_1989_Façades%20rideaux.pdflist index out of range
+2023-04-21_17:25:53 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20331_1988_Fenêtres%20et%20portes-fenêtres.pdflist index out of range
+2023-04-21_17:26:00 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20342_1988_Protection%20des%20baies%20contre%20le%20soleil%20et%20les%20intempéries.pdflist index out of range
+2023-04-21_17:26:06 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20343_1990_Portes.pdflist index out of range
+2023-04-21_17:26:11 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20358_2010_Garde-corps.pdflist index out of range
+2023-04-21_17:26:14 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20380.1_2001_Besoins%20de%20chaleur%20pour%20le%20chauffage.pdflist index out of range
+2023-04-21_17:26:27 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20380.3_1991_Isolation%20thermique%20des%20conduites,%20canalisations%20et%20réservoirs%20du%20bâtiment.pdflist index out of range
+2023-04-21_17:26:36 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20385.1_2000_%20Installations%20d'eau%20chaude%20sanitaire%20dans%20les%20bâtiments%20-%20Bases%20gén´rales%20et%20exigences.pdflist index out of range
+2023-04-21_17:26:51 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20382.1_1992_Ventilation%20mécanique%20dans%20les%20bâtiments%20-%20Bases%20et%20performances%20requises.pdflist index out of range
+2023-04-21_17:26:59 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20384.1_1991_Installations%20de%20chauffage%20dans%20les%20bâtiments%20-%20Bases%20générales%20et%20performances%20requises.pdflist index out of range
+2023-04-21_17:27:12 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20384.2_1982_Systèmes%20de%20chauffage%20dans%20les%20bâtiments%20-%20Puissance%20requise.pdflist index out of range
+2023-04-21_17:27:24 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20400_2000_%C3%89laboration%20des%20dossiers%20de%20plans%20dans%20le%20domaine%20du%20b%C3%A2timent.pdflist index out of range
+2023-04-21_17:27:38 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20405_1999_Geodonnées%20du%20cadastre%20des%20conduites%20de%20distribution%20et%20d'assainissement.pdflist index out of range
+2023-04-21_17:27:49 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20410.1.2_1981_Désignation%20des%20installations%20du%20bâtiment%20-%20Plans,%20installations%20en%20plance,%20évidements.pdflist index out of range
+2023-04-21_17:28:06 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20414.1_2016_Tolérances%20dimensionnelles%20dans%20la%20construction%20-%20Termes,%20principes%20et%20règles%20d_application.pdflist index out of range
+2023-04-21_17:28:21 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20414.2_2016_Tolérances%20dimensionnelles%20dans%20le%20bâtiment.pdflist index out of range
+2023-04-21_17:28:25 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20416_2003_Surfaces%20et%20volumes%20des%20bâtiments.pdflist index out of range
+2023-04-21_17:28:35 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20430_1993_Gestion%20des%20déchets%20de%20chantier.pdflist index out of range
+2023-04-21_17:28:41 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20431_1997_Traitement%20et%20évacuation%20des%20eaux%20de%20chantier.pdflist index out of range
+2023-04-21_17:28:50 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20450_1994_Informatique%20-%20Informations%20relatives%20aux%20coûts.pdflist index out of range
+2023-04-21_17:29:01 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20451_1992_Informatique%20-%20Formats%20des%20données%20pour%20descriptifs.pdflist index out of range
+2023-04-21_17:29:06 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20469_1997_Conservation%20des%20ouvrages.pdflist index out of range
+2023-04-21_17:29:15 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20500_2009_Constructions%20sans%20obstacles.pdflist index out of range
+2023-04-21_17:29:29 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20500_2009_Constructions%20sans%20obstacles_correctif.pdflist index out of range
+2023-04-21_17:29:33 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%20500_2009_Constructions%20sans%20obstacles_interpretation.pdflist index out of range
+2023-04-21_17:29:39 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%202007_2001_La%20qualité%20dans%20la%20construction%20-%20L'élaboration%20et%20l'usage%20des%20systèmes%20de%20gestion.pdflist index out of range
+2023-04-21_17:30:01 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%202014_1996_CAO%20%20DAO-Échange%20de%20données%20-%20Structure%20et%20codification.pdflist index out of range
+2023-04-21_17:30:11 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%202015_1999_Catalogue%20des%20modèles%20de%20représentation%20des%20objets%20du%20cadastre%20des%20conduites%20de%20distribution%20et%20d'assainissement.pdflist index out of range
+2023-04-21_17:30:19 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%202016_1999_Modèles%20de%20données%20des%20objets%20du%20cadastre%20des%20conduites%20de%20distribution%20et%20d'assainissement.pdflist index out of range
+2023-04-21_17:30:30 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%202017_2000_Valeur%20de%20conservation%20des%20ouvrages.pdflist index out of range
+2023-04-21_17:30:36 - https://pub-6added9f6d714a08ac3dfc0ad9d3f2d5.r2.dev/SIA%202020_2002_Garanties%20(sûretés)%20à%20fournir%20par%20l'entrepreneur%20dans%20le%20contrat%20d'entreprise%20-%20Cahier%20technique%20de%20la%20norme%20SIA%20118%20.pdflist index out of range
+2023-04-21_17:54:21 - https://www.val-de-ruz.ch/fileadmin/SICO/Val-de-Ruz/Documents/RSVDR/Conseil_communal_et_general/7_Protection_env._et_amenag._territoire/1984.04.02_-_reglement_constrution_Chezard.pdf'utf-8' codec can't decode byte 0xe8 in position 0: unexpected end of data
