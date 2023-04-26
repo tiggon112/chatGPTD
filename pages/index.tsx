@@ -219,9 +219,9 @@ export default function Home() {
         body: fileName,
       });
 
+      setIsModalOpen(false);
+      setIsLoading(false);
       if (resp.ok) {
-        setIsModalOpen(false);
-        setIsLoading(false);
         messageApi.open({
           type: 'success',
           content: 'Successful for Uploading and Embedding.',
@@ -242,9 +242,9 @@ export default function Home() {
       body: websiteLinksField,
     });
 
+    setIsModalOpen(false);
+    setIsLoading(false);
     if (res.ok) {
-      setIsModalOpen(false);
-      setIsLoading(false);
       messageApi.open({
         type: 'success',
         content: 'Successful for Uploading and Embedding.',
