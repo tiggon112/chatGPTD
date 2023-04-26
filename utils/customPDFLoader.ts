@@ -50,7 +50,7 @@ export class CustomPDFLoader extends BufferLoader {
 async function PDFLoaderImports() {
   try {
     // the main entrypoint has some debug code that we don't want to import
-    const { default: pdf } = await import('pdf-parse/lib/pdf-parse.js');
+    const { default: pdf } = await import('pdf-parse');
     return { pdf };
   } catch (e) {
     console.error(e);

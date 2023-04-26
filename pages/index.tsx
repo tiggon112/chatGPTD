@@ -327,14 +327,17 @@ export default function Home() {
 
       <header className="container sticky top-0 z-40 bg-white"></header>
       <h3 className="border-white text-2xl leading-[1.1] tracking-tighter text-center">
-        <Button onClick={showModal}>
+        <Button
+          onClick={showModal}
+          style={{ marginBottom: '15px', marginTop: '11px' }}
+        >
           Start Embedding from Document or Website links
         </Button>{' '}
       </h3>
       {/* <div id="searchfilter-region">
         <FilterBar filterOptions={filterOptions} />
       </div> */}
-      <div>
+      <div style={{ margin: '15px' }}>
         <div className={styles.cloud}>
           <div ref={messageListRef} className={styles.messagelist}>
             {chatMessages.map((message, index) => {
