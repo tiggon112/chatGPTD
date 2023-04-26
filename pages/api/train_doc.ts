@@ -9,6 +9,7 @@ import { RecursiveCharacterTextSplitter } from 'langchain/text_splitter';
 import { OpenAIEmbeddings } from 'langchain/embeddings/openai';
 import { PineconeClient } from '@pinecone-database/pinecone';
 import { PineconeStore } from 'langchain/vectorstores';
+import path from 'path';
 
 const PINECONE_INDEX_NAME = process.env.PINECONE_INDEX_NAME;
 
@@ -33,23 +34,19 @@ export default async function handler(
       (Math.max(0, req.body.lastIndexOf('.')) || Infinity) + 1,
     );
 
+    const targetPath = path.join(process.cwd(), `/uploads/`);
+
     switch (extension) {
       case 'docx' || 'doc':
-        const DocLoader = new DocxLoader(
-          'home/kinddev/Workstation/ArchGPT2-main/uploads/' + req.body,
-        );
+        const DocLoader = new DocxLoader(targetPath + req.body);
         rawDocs = await DocLoader.load();
         break;
       case 'txt':
-        const TxtLoader = new TextLoader(
-          '/home/kinddev/Workstation/ArchGPT2-main/uploads/' + req.body,
-        );
+        const TxtLoader = new TextLoader(targetPath + req.body);
         rawDocs = await TxtLoader.load();
         break;
       default:
-        const PdfLoader = new PDFLoader(
-          '/home/kinddev/Workstation/ArchGPT2-main/uploads/' + req.body,
-        );
+        const PdfLoader = new PDFLoader(targetPath + req.body);
         rawDocs = await PdfLoader.load();
         break;
     }
