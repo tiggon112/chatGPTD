@@ -282,8 +282,9 @@ export default function Home() {
                     />
                   </Upload>
                 </Col>
-                <Col sm={6} xs={8}>
+                <Col sm={8} xs={8}>
                   <Button
+                    style={{ width: '100%' }}
                     icon={<UploadOutlined />}
                     onClick={fileUpload}
                     disabled={isUploadDisable}
@@ -295,7 +296,7 @@ export default function Home() {
             </Space.Compact>
             <Space.Compact style={{ width: '100%' }}>
               <Row style={{ width: '100%' }} justify="space-between">
-                <Col sm={16} xs={12}>
+                <Col sm={15} xs={12}>
                   <Input
                     placeholder="Please type the website links."
                     disabled={isWebSiteLinksDisable}
@@ -309,8 +310,9 @@ export default function Home() {
                     }}
                   />
                 </Col>
-                <Col sm={6} xs={8}>
+                <Col sm={8} xs={8}>
                   <Button
+                    style={{ width: '100%' }}
                     disabled={isWebSiteLinksDisable}
                     onClick={onWebSiteLinks}
                   >
@@ -324,10 +326,7 @@ export default function Home() {
       </Modal>
 
       <header className="container sticky top-0 z-40 bg-white"></header>
-      <h3
-        className="border-white text-2xl leading-[1.1] tracking-tighter text-center"
-        style={{ marginTop: 30 + 'px' }}
-      >
+      <h3 className="border-white text-2xl leading-[1.1] tracking-tighter text-center">
         <Button onClick={showModal}>
           Start Embedding from Document or Website links
         </Button>{' '}
@@ -335,7 +334,7 @@ export default function Home() {
       {/* <div id="searchfilter-region">
         <FilterBar filterOptions={filterOptions} />
       </div> */}
-      <main className={styles.main}>
+      <div>
         <div className={styles.cloud}>
           <div ref={messageListRef} className={styles.messagelist}>
             {chatMessages.map((message, index) => {
@@ -493,7 +492,7 @@ export default function Home() {
             <p className="text-red-500">{error}</p>
           </div>
         )}
-      </main>
+      </div>
     </>
   );
 }
