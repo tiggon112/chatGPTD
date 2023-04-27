@@ -4,10 +4,10 @@ import { OpenAIEmbeddings } from 'langchain/embeddings/openai';
 import { PineconeClient } from '@pinecone-database/pinecone';
 import { PineconeStore } from 'langchain/vectorstores';
 import { CheerioWebBaseLoader } from 'langchain/document_loaders/web/cheerio';
+import { getDocument, GlobalWorkerOptions } from 'pdfjs-dist/legacy/build/pdf';
+import { Document } from 'langchain/document';
 
 const PINECONE_INDEX_NAME = process.env.PINECONE_INDEX_NAME;
-
-const filePath = 'uploads';
 
 if (!process.env.PINECONE_ENVIRONMENT || !process.env.PINECONE_API_KEY) {
   throw new Error('Pinecone environment or api key vars missing');
@@ -24,11 +24,40 @@ export default async function handler(
     };
 
   try {
-    let rawDocs = [];
+    let rawDocs: Document[] = [];
+    let text = '';
 
-    const WebsiteLinksloader = new CheerioWebBaseLoader(req.body);
+    const extension = req.body.split('.').pop().toLowerCase();
+    if (
+      extension === 'pdf' &&
+      (req.body.startsWith('http://') || req.body.startsWith('https://'))
+    ) {
+      const pdfLoader = getDocument(req.body);
+      const pdf = await pdfLoader.promise;
+      let maxPages = pdf._pdfInfo.numPages;
 
-    rawDocs = await WebsiteLinksloader.load();
+      for (let i = 1; i <= maxPages; i++) {
+        let page = await pdf.getPage(i);
+        let pageContext = await page.getTextContent();
+        text += pageContext.items
+          .map((s: any) => {
+            return s.str;
+          })
+          .join('');
+      }
+
+      const docs = new Document({
+        pageContent: text,
+        metadata: {
+          source: req.body,
+        },
+      });
+      rawDocs.push(docs);
+    } else {
+      const WebsiteLinksloader = new CheerioWebBaseLoader(req.body);
+      rawDocs = await WebsiteLinksloader.load();
+    }
+
     /* Split text into chunks */
     const textSplitter = new RecursiveCharacterTextSplitter({
       chunkSize: 1000,
@@ -36,8 +65,6 @@ export default async function handler(
     });
 
     const docs = await textSplitter.splitDocuments(rawDocs);
-    console.log('Split docs', docs);
-    console.log('Creating vector store...');
 
     /* Create and Store the embeddings in to vectorStore */
     const embeddings = new OpenAIEmbeddings({

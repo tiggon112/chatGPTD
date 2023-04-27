@@ -29,6 +29,7 @@ import {
   Row,
   Col,
 } from 'antd';
+import pdfjsLib from 'pdfjs-dist';
 
 export default function Home() {
   const filter = useSelector((state: { filter: any }) => state.filter);
@@ -237,6 +238,7 @@ export default function Home() {
 
   const onWebSiteLinks = async () => {
     setIsLoading(true);
+
     const res = await fetch('/api/train_links', {
       method: 'POST',
       body: websiteLinksField,

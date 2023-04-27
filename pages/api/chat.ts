@@ -135,7 +135,7 @@ export default async function handler(
 
     //filt only score > 0.85
     let output = score_data
-      .filter((item) => item[1] > 0.5)
+      .filter((item) => item[1] > 0.7)
       .map((item) => item[0]);
 
     //New Response Dataformat discussed with Elin
